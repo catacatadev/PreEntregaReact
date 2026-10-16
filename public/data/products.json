@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1, 
+        "name": "Libro de fantasía", 
+        "description": "", 
+        "price": 25000, 
+        "image": "", 
+        "category": "fantasia"
+
+    },
+    {
+        "id": 2, 
+        "name": "Libro de terror", 
+        "description": "", 
+        "price": 25000, 
+        "image": "", 
+        "category": "terror"
+
+    },
+    {
+        "id": 3, 
+        "name": "Libro de romance", 
+        "description": "", 
+        "price": 25000, 
+        "image": "", 
+        "category": "romance"
+
+    },
+    {
+        "id": 4, 
+        "name": "Libro de aventura", 
+        "description": "", 
+        "price": 25000, 
+        "image": "", 
+        "category": "aventura"
+
+    }
+]
